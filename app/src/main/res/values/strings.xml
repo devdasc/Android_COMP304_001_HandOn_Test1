@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DevdasChatterjee_COMP304_001_Hand-On_Test1</string>
+    <string name="brain">Brain Challenge</string>
+  <string-array name="y_interval">
+    <item>-50</item>
+    <item>50</item>
+    <item>-50</item>
+    <item>50</item>
+      <item>-50</item>
+    <item>50</item>
+    <item>-50</item>
+    <item>50</item>
+
+  </string-array>
+
+
+</resources>
